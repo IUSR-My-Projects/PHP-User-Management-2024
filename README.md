@@ -11,8 +11,6 @@ For Exam Web Application 2, PHP-User-Management-2024
 - PostgreSQL
 - IDE PHPStorm
 
-![img.png](img.png)
-
 <hr/>
 <br/>
 
@@ -20,3 +18,7 @@ For Exam Web Application 2, PHP-User-Management-2024
 
 <br/>
 <br/>
+
+![img.png](img.png)
+
+
