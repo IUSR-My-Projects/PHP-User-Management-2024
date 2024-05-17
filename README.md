@@ -14,11 +14,11 @@ For Exam Web Application 2, PHP-User-Management-2024
 <hr/>
 <br/>
 
-[Click here to => Youtube Video](https://youtu.be/tprnZ5gq9UA)
+<a href="https://youtu.be/tprnZ5gq9UA" target="_blank">
+  <img src="http://img.youtube.com/vi/tprnZ5gq9UA/0.jpg" alt="Click here to => Youtube Video">
+</a>
 
 <br/>
 <br/>
-
-![img.png](img.png)
 
 
